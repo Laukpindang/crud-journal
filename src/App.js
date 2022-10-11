@@ -88,7 +88,7 @@ function handleSubmit(e) {
 
   return (
     <div className="App">
-      <h1 className="px-3 py-3"><center>Attendand List</center></h1>
+      <h1 className="px-3 py-3"><center>Journal List</center></h1>
       <form onSubmit={handleSubmit} className="px-3 py-4">
         <div className="form-group">
           <label htmlFor="">Tanggal</label>
