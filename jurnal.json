@@ -1,0 +1,14 @@
+{
+  "jurnal": [
+    {
+      "tanggal": "2022-10-11",
+      "isi": "Membuat App Jurnal",
+      "id": "609412b2162"
+    },
+    {
+      "id": "09412b21624",
+      "tanggal": "2022-10-10",
+      "isi": "Membuat CRUD sederhana"
+    }
+  ]
+}
