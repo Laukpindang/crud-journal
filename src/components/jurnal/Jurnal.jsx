@@ -95,8 +95,8 @@ const Jurnal = () => {
       <nav className='navbar sticky-top navbar-light bg-light'>
         <h1>Judul</h1>
           <div className='btn-group' role="group" aria-label='Basic example'>
-            <button className='btn btn-info' onClick={navigatePage}>Absen</button>
-            <button className='btn btn-info'>Jurnal</button>
+            <button className='btn btn-dark' onClick={navigatePage}>Absen</button>
+            <button className='btn btn-dark'>Jurnal</button>
           </div>
       </nav>
       <h1 className="px-3 py-3"><center>Journal List</center></h1>
